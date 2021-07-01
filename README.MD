@@ -1,4 +1,4 @@
-# Projeto relacionado com desafio da Digital Inovation
+# Projeto relacionado com desafio da Digital Innovation One
 *Criando um APP simples de cadastro de séries em .NET*
 
 # Sendo implementado:
@@ -17,7 +17,7 @@
 ### Setor:
 
 ## As informações estão sendo salvas através de 3 arquivos txt:
-### levantamento(Inserido)*
-### levantamento(Atualizado)*
-### levantamento(Excluido)*
+### levantamento(Inserido)
+### levantamento(Atualizado)
+### levantamento(Excluido)
 
