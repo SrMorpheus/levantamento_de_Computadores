@@ -1,0 +1,26 @@
+E:\Levantamento\bin\Debug\netcoreapp3.1\levantamento.exe
+E:\Levantamento\bin\Debug\netcoreapp3.1\levantamento.deps.json
+E:\Levantamento\bin\Debug\netcoreapp3.1\levantamento.runtimeconfig.json
+E:\Levantamento\bin\Debug\netcoreapp3.1\levantamento.runtimeconfig.dev.json
+E:\Levantamento\bin\Debug\netcoreapp3.1\levantamento.dll
+E:\Levantamento\bin\Debug\netcoreapp3.1\levantamento.pdb
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.csprojAssemblyReference.cache
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.AssemblyInfoInputs.cache
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.AssemblyInfo.cs
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.csproj.CoreCompileInputs.cache
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.dll
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.pdb
+E:\Levantamento\obj\Debug\netcoreapp3.1\levantamento.genruntimeconfig.cache
+C:\Users\BRUNO BARROS\Desktop\Levantamento\bin\Debug\netcoreapp3.1\levantamento.exe
+C:\Users\BRUNO BARROS\Desktop\Levantamento\bin\Debug\netcoreapp3.1\levantamento.deps.json
+C:\Users\BRUNO BARROS\Desktop\Levantamento\bin\Debug\netcoreapp3.1\levantamento.runtimeconfig.json
+C:\Users\BRUNO BARROS\Desktop\Levantamento\bin\Debug\netcoreapp3.1\levantamento.runtimeconfig.dev.json
+C:\Users\BRUNO BARROS\Desktop\Levantamento\bin\Debug\netcoreapp3.1\levantamento.dll
+C:\Users\BRUNO BARROS\Desktop\Levantamento\bin\Debug\netcoreapp3.1\levantamento.pdb
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.csprojAssemblyReference.cache
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.AssemblyInfoInputs.cache
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.AssemblyInfo.cs
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.csproj.CoreCompileInputs.cache
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.dll
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.pdb
+C:\Users\BRUNO BARROS\Desktop\Levantamento\obj\Debug\netcoreapp3.1\levantamento.genruntimeconfig.cache
